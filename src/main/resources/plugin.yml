@@ -1,0 +1,5 @@
+name: ${project.name}
+main: ${project.groupId}.${upload.dbo.slug}.${project.name}
+version: ${project.version}
+description: ${project.description}
+load: startup
